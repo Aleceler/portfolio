@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    /*colors*/
+    --white: #fff;
+    --lightgrey: rgba(0, 0, 0, 0.1);
+
+    /*shadows & borders*/
+    --shadows: 0 2px 2px var(--lightgrey);
+}
